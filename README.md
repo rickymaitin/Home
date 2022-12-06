@@ -1,4 +1,4 @@
-Hoe applicatoin that provides serves to customers 
+Home applicatoin that provides serves to customers 
 
 To run build in terminal 
 #npm start 
